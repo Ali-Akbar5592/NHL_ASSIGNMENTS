@@ -1,0 +1,18 @@
+Personal Statement
+
+I am writing to express my strong interest in the Master’s programme in Computer Vision & Data Science at NHL Stenden University of Applied Sciences. With a solid background in software development, data engineering, and a growing passion for artificial intelligence, I am eager to deepen my expertise and contribute to impactful advancements in the field, especially in areas such as medical imaging and data science.
+My motivation to pursue this programme stems from my experiences in the IT industry, where I’ve worked across domains like finance and e-commerce. Over five years, I have built and deployed web crawlers, maintained and contributed towards backend of trading and banking systems while working with companies such as Tata Consultancy Services and Intelligence Node. These experiences exposed me to real-world data challenges and the exciting potential of AI-driven insights, especially when solving problems at scale.
+I am particularly drawn to NHL Stenden’s applied learning approach, real-world orientation, and strong industry collaboration. The focus on research and innovation in Computer Vision and Data Science alongside hands-on project work which makes this programme a perfect fit for my academic and professional goals. I look forward to learning in an international environment and contributing my own experiences and perspectives.
+I bring with me a diverse technical toolkit. 
+
+My programming experience includes:
+C++ (Boost, cURL, jsonutils libraries) for building web crawlers and processing systems at Intelligence Node
+Python (Scrapy, NumPy, Pandas) for data scraping and transformation pipelines
+JavaScript (Cheerio, Puppeteer, Bootstrap) for dynamic scraping(Both Get & Post requests based website) and UI tasks at TCS
+Shell scripting and Linux systems for automation, deployment, and monitoring
+Mysql and MongoDB for storing data 
+
+In addition, I have a sound understanding of linear algebra, probability theory, and statistics; key components for data modelling and AI algorithms. My academic foundation from Mumbai University (B.E. in Electronics & Telecommunication) and a postgraduate diploma in Advanced Computing from CDAC, Mumbai, have equipped me with the analytical thinking and coding skills needed for this rigorous programme.
+Though I haven't formally worked in AI systems yet, I am eager to bridge that gap. My professional work in scraping, data transformation, and database optimization has built a strong base for transitioning into more analytical and research-focused roles in Data Science and Computer Vision. I am particularly intrigued by how computer vision is transforming healthcare, diagnostics, and real-world systems through intelligent automation.
+I am confident that the Master’s programme at NHL Stenden will not only sharpen my technical and research skills but also enable me to solve meaningful problems impact in the society.
+Thank you for considering my application. I look forward to the opportunity to join your academic community and contribute with dedication and curiosity.
