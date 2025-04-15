@@ -12,7 +12,7 @@ df = pd.DataFrame(data)
 
 # Filtering quotes with more than 2 tags
 df['num_tags'] = df['tags'].apply(lambda x: len(x))
-df_filtered = df[df['num_tags'] > 2]
+df_filtered = df[df['num_tags'] > 2].copy()
 
 # Calculating text length
 df_filtered['text_length'] = df_filtered['text'].apply(lambda x: np.char.str_len(x))

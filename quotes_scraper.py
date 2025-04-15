@@ -14,3 +14,5 @@ class QuotesSpider(scrapy.Spider):
         next_page = response.css('li.next a::attr(href)').get()
         if next_page:
             yield response.follow(next_page, self.parse)
+
+# scrapy runspider quotes_scraper.py -o quotes.json 
